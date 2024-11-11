@@ -18,7 +18,7 @@ A Streamlit-based application that provides an interactive chat interface for qu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amirkhier/MariaDBAssistantChatbot
+   git clone https://github.com/amirkhier/MariaDBAssistantChatbot.git
    cd MariaDBAssistantChatbot
    ```
 
