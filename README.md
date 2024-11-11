@@ -18,8 +18,8 @@ A Streamlit-based application that provides an interactive chat interface for qu
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/amirkhier/MariaDBAssistantChatbot
+   cd MariaDBAssistantChatbot
    ```
 
 2. Install the required Python packages:
